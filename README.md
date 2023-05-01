@@ -46,10 +46,4 @@ src="https://img.shields.io/github/followers/dasunNimantha?logo=github&style=for
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dasunNimantha"><img src="https://github-readme-stats.vercel.app/api?username=dasunNimantha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dasunNimantha's GitHub stats" /></a>
-
-<a href="http://www.github.com/dasunNimantha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunNimantha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
